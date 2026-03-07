@@ -1,0 +1,20 @@
+# singapore.md
+
+> Singapore's README — a structured directory of government portals, industry data, and live APIs for AI agents and humans.
+
+## Core Document
+
+- [singapore.md full content](https://singapore.md/index.md): Complete structured directory of Singapore — government ministries, statutory boards, AI/finance/green energy industry data, and live data endpoints.
+
+## Sections
+
+- [Quick Facts](https://singapore.md/index.md#quick-facts): Timezone, currency, language, emergency numbers, electricity, driving side.
+- [Government Directory](https://singapore.md/index.md#government-directory): All 16 ministries and key statutory boards with official websites.
+- [Industries — AI](https://singapore.md/index.md#industries--ai): National AI Strategy 2.0, NAIRD Plan, NAIIP, AI Verify, key institutions.
+- [Industries — Finance](https://singapore.md/index.md#industries--finance): MAS regulations, fintech ecosystem, PSA/SFA/FSMA, GFTN, BLOOM, stablecoin framework.
+- [Industries — Green Energy](https://singapore.md/index.md#industries--green-energy): Green Plan 2030, five pillars, 2030 targets, low-carbon hydrogen strategy.
+- [Live Data](https://singapore.md/index.md#live-data): Real-time weather, air quality, traffic, taxi, carpark, and transport data from data.gov.sg.
+
+## Optional
+
+- [Design Document](https://singapore.md/docs/design.md): Architecture and roadmap for this project.

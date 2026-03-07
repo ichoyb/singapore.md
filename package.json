@@ -1,0 +1,12 @@
+{
+  "name": "singapore.md",
+  "version": "1.0.0",
+  "description": "Singapore's README — a structured directory for AI agents and humans",
+  "scripts": {
+    "build": "node build/build.js",
+    "dev": "node build/dev.js"
+  },
+  "dependencies": {
+    "marked": "^15.0.0"
+  }
+}
