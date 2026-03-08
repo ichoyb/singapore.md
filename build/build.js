@@ -26,6 +26,7 @@ const html = `<!DOCTYPE html>
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://singapore.md">
   <link rel="canonical" href="https://singapore.md">
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
   <style>${css}</style>
 </head>
 <body>

@@ -30,6 +30,9 @@ const MIME = {
   '.txt': 'text/plain',
   '.css': 'text/css',
   '.js': 'application/javascript',
+  '.svg': 'image/svg+xml',
+  '.png': 'image/png',
+  '.ico': 'image/x-icon',
 };
 
 const server = http.createServer((req, res) => {
